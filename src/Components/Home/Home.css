@@ -1,0 +1,48 @@
+
+/* Top Bar Starts */
+.top-bar{
+    width: 100%;
+    padding-left: 5%;
+    position: fixed !important;
+    border-bottom: 2px solid #8c8d8f73;
+}
+/* Top Bar Ends*/
+
+
+/* Section-1 Starts Here */
+.section-1{
+    padding-top: 130px !important;
+
+}
+
+.sec-1-left{
+    padding-left: 7% !important;
+}
+.plus-btn{
+    width: 170px;
+    height: 50px;
+    background-color: #2a73cc;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.btn-line{
+    display: inline;
+}
+/* Section-1 Ends Here */
+
+/* Section-2 Starts Here */
+.section-2{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
+/* Section-2 Ends Here */
+
+.sec-3-content{
+    margin-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
